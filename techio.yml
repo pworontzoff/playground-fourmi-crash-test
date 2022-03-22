@@ -1,0 +1,11 @@
+title : Crash-test La fourmi de Langton avec des "Papers animés"
+plan:
+  - title: Crash-test - La fourmi de Langton
+    statement: markdowns/welcome.md
+ 
+projects:
+  fourmi:
+    root: "/Fourmi"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
