@@ -1,8 +1,6 @@
 # Crash-test - La fourmi de Langton
 
-1. Cliquer sur le lien pour lire la vidéo :
-
-([Dropbox mov](https://www.dropbox.com/s/56z2ujebbg5u8yu/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mov?dl=0))
+1. Cliquer sur le lien pour lire la vidéo : ([Dropbox mov](https://www.dropbox.com/s/56z2ujebbg5u8yu/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mov?dl=0))
 
 2. Cliquer sur la bouton "Run" au bas du programme ci-desous :
 
