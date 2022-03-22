@@ -8,4 +8,4 @@
 
 @[fourmi]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi"})
 
-3) Si la vidéo a pu être lue, et que le programme a lancé l'affichage d'une grille qui se remplit de cases colorées comme dans la vidéo, le crash-test est réussi et l'atelier se déroulera sans encombre !
+==> Si la vidéo a pu être lue, et que le programme a lancé l'affichage d'une grille qui se remplit de cases colorées comme dans la vidéo, le crash-test est réussi et l'atelier se déroulera sans encombre !
